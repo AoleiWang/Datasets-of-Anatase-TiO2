@@ -1,1 +1,1 @@
-These are the datasets of the article 'Ultrafast Many-Body Bright-Dark Exciton Transition in Anatase TiO2'. Below the Fig. * is the corresponding data, where the readme.txt explains the contents of each file.
+These datasets are associated with the article titled 'Ultrafast Many-Body Bright-Dark Exciton Transition in Anatase TiO2.' The corresponding data for each figure is provided below. Please refer to the readme.txt file for detailed explanations of the contents of each file.
