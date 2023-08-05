@@ -1,0 +1,1 @@
+b_jdos_222(444,666).dat is the joint density of states using supercell with 2x2x2 (4x4x4, 6x6x6) k-point grid.

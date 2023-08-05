@@ -1,0 +1,2 @@
+abs(jdos)-0K(100K,300K).dat is theabsorption spectrum (JDOS of lowest dark exciton (Γ-X exciton)) data at 0 K, 100 K and 300 K;
+The results at 100 K and 300 K are obtained by averaging over the AIMD trajectory.
